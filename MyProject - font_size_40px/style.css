@@ -65,7 +65,7 @@ a {
 	color: #fff;
 	cursor: pointer;
 	font-size: 40px;
-	border-radius: 25px;
+	border-radius: 30px;
 	font-weight: normal;
 	
 }
@@ -97,22 +97,22 @@ a {
 
 
 .number {	
-	height: 50px;
+	height: 60px;
 	margin: 5px 0 5px 10px;
-	width: 50px;
+	width: 60px;
 }
 
 .delete {
-	height: 50px;
+	height: 60px;
 	margin: 5px 0 5px 10px;
-	width: 50px;
+	width: 60px;
 }
 
 .submit {
 	margin: 20px 0 5px 10px;
-	border-radius: 25px;
+	border-radius: 30px;
 	width: 200px;
-	height: 45px;
+	height: 60px;
 	opacity: 0.4;
     cursor: not-allowed;
 }
